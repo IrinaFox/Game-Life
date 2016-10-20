@@ -1,0 +1,19 @@
+.button{
+    width: 70px;
+    background-color: #dce1dc;
+    border: 1px solid black;
+    margin: 5px;
+
+}
+.buttons{
+    width: 80px;
+    height: 600px;
+    float: left;
+
+}
+#general{
+    border: 2px inset #dce1dc;
+    width: 600px;
+    height: 500px;
+    padding: 10px;
+}
